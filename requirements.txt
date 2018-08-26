@@ -1,0 +1,7 @@
+cv2
+pickle
+matplotlib
+numpy
+imutils
+sklearn
+tensorflow

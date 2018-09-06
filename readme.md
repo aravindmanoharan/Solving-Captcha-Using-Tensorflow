@@ -52,4 +52,4 @@ After training the model, predicting captcha becomes simpler.
 
 ## Have questions? Need help with the code?
 
-If you're having issues with or have questions about the bot, [file an issue](https://github.com/aravindmanoharan/Solving-Captcha-Using-Tensorflow/issues) in this repository so that I can get back to you soon.
+If you're having issues with or have questions about the code, [file an issue](https://github.com/aravindmanoharan/Solving-Captcha-Using-Tensorflow/issues) in this repository so that I can get back to you soon.

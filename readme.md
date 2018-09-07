@@ -26,7 +26,7 @@ Please check the requirements.txt file for all the packages whcih you need to in
 
 ## Simplifying the problem
 
-We simplify the problem by spliting the captcha image into single letters. Now, we only have to train the neural network to recognize a single letter at a time.
+We simplify the problem by splitting the captcha image into single letters. Now, we only have to train the neural network to recognize a single letter at a time.
 
 <p align="center">
   <img width="700" height="300" src="https://user-images.githubusercontent.com/35612880/44632814-28a48980-a936-11e8-89c2-5f9d84d6b72e.png">
